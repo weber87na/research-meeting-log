@@ -1,0 +1,11 @@
+*.mp4
+*.mkv
+.venv/
+__pycache__/
+.uv-cache/
+.models/
+client-secrets.json
+client_secret.json
+*_whisper_parts/
+*_whisper.json
+*_whisper.srt
